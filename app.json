@@ -1,0 +1,9 @@
+{
+  "name": "googlemap",
+  "displayName": "googlemap",
+  "ios":{
+    "CFBundleIdentifier":"com.googlemap",
+    "bundleIdentifier":"com.googlemap"
+
+  }
+}

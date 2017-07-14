@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+
+target 'googlemap' do
+  pod 'GooglePlaces'
+pod 'GoogleMaps'
+pod 'GooglePlacePicker'
+end
